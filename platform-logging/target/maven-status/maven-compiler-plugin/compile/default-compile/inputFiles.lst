@@ -1,0 +1,13 @@
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/repository/LogRepository.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/service/mapper/LogErrorMapper.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/aop/log/Log.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/service/dto/LogQueryCriteria.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/service/LogService.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/aspect/LogAspect.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/service/dto/LogSmallDTO.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/service/mapper/LogSmallMapper.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/service/impl/LogServiceImpl.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/domain/Log.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/service/dto/LogErrorDTO.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/rest/LogController.java
+/Users/ytuan/java_idea/k8splatform/platform-logging/src/main/java/com/sdjtu/platform/PlatformLoggingApplication.java
